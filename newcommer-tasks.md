@@ -11,9 +11,9 @@ You can finish all these tasks just in A MONTH!
 
 All list below are must-have and all important!
 
-- [ ]  English Skill. English is must-have capability to join in a FOSS community, if you cannot read this page without any assistance, please improve your English first.
-- [ ]  For Internet searching, using Google or DuckDuckGo, don't use Baidu. Google is not a perfect search engine for respecting your freedom, however it is better than Baidu. For runner-up option, DuckDuckGo version is okay for temporary use.
-- [ ]  Learn how to jump outside GFW, you can using ANY method to do it, because most international FOSS project are outside GFW, and GFW may interrupts connection to their websites, service, and so many things… Remember that if you use someone else's server to jump outside GFW, you have to concern about your privacy, ONLY encrypted connection (HTTPS) and encrypted content are allowed ALL THE TIME, especially login or submit any privacy information.
+- [x]  English Skill. English is must-have capability to join in a FOSS community, if you cannot read this page without any assistance, please improve your English first.
+- [x]  For Internet searching, using Google or DuckDuckGo, don't use Baidu. Google is not a perfect search engine for respecting your freedom, however it is better than Baidu. For runner-up option, DuckDuckGo version is okay for temporary use.
+- [x]  Learn how to jump outside GFW, you can using ANY method to do it, because most international FOSS project are outside GFW, and GFW may interrupts connection to their websites, service, and so many things… Remember that if you use someone else's server to jump outside GFW, you have to concern about your privacy, ONLY encrypted connection (HTTPS) and encrypted content are allowed ALL THE TIME, especially login or submit any privacy information.
 
 Personal
 ---------
@@ -22,9 +22,9 @@ Personal
 
 This section introduces some personal preparation.
 
- - [ ]  A English Name, better for participate in a international project.
- - [ ]  **(Important) Gmail/Or any other mailbox, don't use any mailbox service that its server located in China. For runner-up option Mirco$oft's Outlook is okay.**
- - [ ]  A blog, where from out of China could read and share (DreamWidth.org, Medium.com, Noblog.org, Blogger and WordPress are recommended for newcomer)
+ - [x]  A English Name, better for participate in a international project.
+ - [x]  **(Important) Gmail/Or any other mailbox, don't use any mailbox service that its server located in China. For runner-up option Mirco$oft's Outlook is okay.**
+ - [x]  A blog, where from out of China could read and share (DreamWidth.org, Medium.com, Noblog.org, Blogger and WordPress are recommended for newcomer)
  - [ ]  Update your profile and resume with skills and FOSS contributions (English and Chinese)
  - [ ]  Generate a OpenPGP (GnuPG) key, upload it to keyserver, ask friends sign your public key, Ref: https://emailselfdefense.fsf.org and https://wiki.archlinux.org/index.php/GnuPG . Note that some project require signing a contributor agreement or other file using your OpenPGP key.
 
@@ -40,9 +40,9 @@ In this section, some required philosophies your should know before every thing 
  - [ ]   Read the book ”[Free Software, Free Society](https://github.com/beijinglug/fsfs-zh)“
  - [ ]   (Important) Learn **FOSS licenses**. You could tell common differences between GPLv2 / GPLv3 / Apache / BSD.
  - [ ]   Install a GNU/Linux distribution, any one would be okay as you like. Linux Mint, Ubuntu, Fedora or openSUSE are better for newcomer who has no any experience in GNU/Linux.
- - [ ]   Learn basic Linux command and shell programing
- - [ ]   (Important) **Git and GitHub** ( Reading “*Pro Git*” first, [Chinese version available](https://git-scm.com/book/zh/v2))
- - [ ]   (Important) Upload your programming homework or design to GitHub, ask others to improve your code or design.
+ - [x]   Learn basic Linux command and shell programing
+ - [x]   (Important) **Git and GitHub** ( Reading “*Pro Git*” first, [Chinese version available](https://git-scm.com/book/zh/v2))
+ - [x]   (Important) Upload your programming homework or design to GitHub, ask others to improve your code or design.
  - [ ]   (Important) Watching some projects.
  
 > Read and learn the project's Getting Start documents or newcomer document
@@ -56,8 +56,8 @@ In this section, some required philosophies your should know before every thing 
 > Learn how to commit code to their code repository and collaborate with others.
      
  > *Where to find projects? * A good resource is watching communities that participate [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/) every year. It provides a list that you can find which one you prefer and involves in.
- - [ ]   Learn Markdown and write a README file to your project in GitHub.
- - [ ]   Learn a programing language, Python, C, Java and JavaScript would be good for startup.
+ - [x]   Learn Markdown and write a README file to your project in GitHub.
+ - [x]   Learn a programing language, Python, C, Java and JavaScript would be good for startup.
  
 Community Coordination
 ----------------------
