@@ -35,7 +35,7 @@ FOSS philosophies and basic skills
 
 In this section, some required philosophies your should know before every thing start. And some basic technology your should learn.To finish this section, you should using a Internet search engine like Google or DuckDuckGo to learn following topics.
 
- - [ ]   Watch video “[Revolution OS](https://www.youtube.com/watch?v=vWwvh3036Fw)“
+ - [x]   Watch video “[Revolution OS](https://www.youtube.com/watch?v=vWwvh3036Fw)“
  - [ ]   Lookup Wikipedia about Free Software and Open Source, you should tell common differences between these two term.
  - [ ]   Read the book ”[Free Software, Free Society](https://github.com/beijinglug/fsfs-zh)“
  - [ ]   (Important) Learn **FOSS licenses**. You could tell common differences between GPLv2 / GPLv3 / Apache / BSD.
