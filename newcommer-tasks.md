@@ -27,6 +27,12 @@ This section introduces some personal preparation.
  - [x]  A blog, where from out of China could read and share (DreamWidth.org, Medium.com, Noblog.org, Blogger and WordPress are recommended for newcomer)
  - [ ]  Update your profile and resume with skills and FOSS contributions (English and Chinese)
  - [ ]  Generate a OpenPGP (GnuPG) key, upload it to keyserver, ask friends sign your public key, Ref: https://emailselfdefense.fsf.org and https://wiki.archlinux.org/index.php/GnuPG . Note that some project require signing a contributor agreement or other file using your OpenPGP key.
+     -  ```
+      gpg --keyserver hkp://keys.gnupg.net --send-key xxxxxxxxxxx
+      gpg: sending key 0C2DC0CC7EF1D164 to hkp://keys.gnupg.net
+      gpg: keyserver send failed: Connection refused
+      gpg: keyserver send failed: Connection refused
+      ```
 
 FOSS philosophies and basic skills
 ----------------------------------
