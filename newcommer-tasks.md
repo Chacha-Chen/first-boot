@@ -28,7 +28,8 @@ This section introduces some personal preparation.
  - [ ]  Update your profile and resume with skills and FOSS contributions (English and Chinese)
  - [ ]  Generate a OpenPGP (GnuPG) key, upload it to keyserver, ask friends sign your public key, Ref: https://emailselfdefense.fsf.org and https://wiki.archlinux.org/index.php/GnuPG . Note that some project require signing a contributor agreement or other file using your OpenPGP key.
 ```
-      gpg --keyserver hkp://keys.gnupg.net --send-key xxxxxxxxxxx
+      //第一次配置失败了，原因如下，我打算再试试
+      gpg --keyserver hkp://keys.gnupg.net --send-key xxxxxxxxxxx
       gpg: sending key 0C2DC0CC7EF1D164 to hkp://keys.gnupg.net
       gpg: keyserver send failed: Connection refused
       gpg: keyserver send failed: Connection refused
@@ -42,7 +43,7 @@ FOSS philosophies and basic skills
 In this section, some required philosophies your should know before every thing start. And some basic technology your should learn.To finish this section, you should using a Internet search engine like Google or DuckDuckGo to learn following topics.
 
  - [x]   Watch video “[Revolution OS](https://www.youtube.com/watch?v=vWwvh3036Fw)“
- - [ ]   Lookup Wikipedia about Free Software and Open Source, you should tell common differences between these two term.
+ - [x]   Lookup Wikipedia about Free Software and Open Source, you should tell common differences between these two term.
  - [ ]   Read the book ”[Free Software, Free Society](https://github.com/beijinglug/fsfs-zh)“
  - [ ]   (Important) Learn **FOSS licenses**. You could tell common differences between GPLv2 / GPLv3 / Apache / BSD.
  - [ ]   Install a GNU/Linux distribution, any one would be okay as you like. Linux Mint, Ubuntu, Fedora or openSUSE are better for newcomer who has no any experience in GNU/Linux.
@@ -72,7 +73,7 @@ Community Coordination
 
 To finish this section, you should using a Internet search engine like Google or DuckDuckGo to learn following topics.
 
- - [ ]   (Important) Learn **IRC** Chat
+ - [x]   (Important) Learn **IRC** Chat
  - [ ]   (Important) Learning **[mailing list etiquette](https://beijinglug.club/wiki/doku.php?id=docs:howtomailinglist)** and subscribe a project's mailing list, or [BLUG discussion mailing list](https://beijinglug.club/mailing-lists/) for newcomer.
  - [ ]   (Optional) Use XMPP chat for personal chat https://beijinglug.club/xmpp_irc/, if you want to join in BLUG daily chat, it is required.
  - [ ]   Wiki writing and write a wiki article. Note that, different wiki system using their own syntax, some wiki using Dokuwiki and some others may using MediaWiki or some else. There are tiny differences between these wiki system.
