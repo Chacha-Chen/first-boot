@@ -46,7 +46,7 @@ In this section, some required philosophies your should know before every thing 
  - [x]   Lookup Wikipedia about Free Software and Open Source, you should tell common differences between these two term.
  - [ ]   Read the book ”[Free Software, Free Society](https://github.com/beijinglug/fsfs-zh)“
  - [ ]   (Important) Learn **FOSS licenses**. You could tell common differences between GPLv2 / GPLv3 / Apache / BSD.
- - [ ]   Install a GNU/Linux distribution, any one would be okay as you like. Linux Mint, Ubuntu, Fedora or openSUSE are better for newcomer who has no any experience in GNU/Linux.
+ - [x]   Install a GNU/Linux distribution, any one would be okay as you like. Linux Mint, Ubuntu, Fedora or openSUSE are better for newcomer who has no any experience in GNU/Linux.
  - [x]   Learn basic Linux command and shell programing
  - [x]   (Important) **Git and GitHub** ( Reading “*Pro Git*” first, [Chinese version available](https://git-scm.com/book/zh/v2))
  - [x]   (Important) Upload your programming homework or design to GitHub, ask others to improve your code or design.
